@@ -1,0 +1,37 @@
+<footer class="main-footer">
+        <div class="footer-inner">
+          <div>
+            <i class="fas fa-globe fa -2x">
+              English (United States)
+            </i>
+          </div>
+            <div>
+            <ul>
+              <li>
+                <a href="#">Sitemap</a>
+              </li>
+              <li>
+                <a href="#">Contact Microsoft</a>
+              </li>
+              <li>
+                <a href="#">Privacy & cookies</a>
+              </li>
+              <li>
+                <a href="#">Terms of Use</a>
+              </li>
+              <li>
+                <a href="#">Trademarks</a>
+              </li>
+              <li>
+                <a href="#">Safety & eco</a>
+              </li>
+              <li>
+                <a href="#">About our ADs</a>
+              </li>
+              <li>
+                <a href="#">&copy; Microsoft 2020</a>
+              </li>
+            </ul>
+          
+        </div>
+      </footer>
